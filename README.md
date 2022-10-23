@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phpcodertop
-- 👀 I’m interested in Web Devlopment, Flutter Mobile Devlopment, Linux System Administration
+- 👀 I’m interested in Web Devlopment, Flutter Mobile Development, Linux System Administration
 - 📫 How to reach me ...
  * Email: phpcodertop@gmail.com
  * Skype: live:phpcodertop
