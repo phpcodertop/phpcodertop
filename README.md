@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @phpcodertop
-- 👀 I’m interested in Web Devlopment, Flutter Mobile Development, Linux System Administration
+- 👀 I’m interested in Web Development, Flutter Mobile Development, Linux System Administration
 - 📫 How to reach me ...
  * Email: phpcodertop@gmail.com
  * Skype: live:phpcodertop
  * LinkedIn: https://www.linkedin.com/in/ahmedmaherhalima/
- * github: https://github.com/phpcodertop
+ * Github: https://github.com/phpcodertop
 
 - ‍💻Let's work together
  * Upwork: https://www.upwork.com/freelancers/~0184451a7a5eb06064
