@@ -3,7 +3,6 @@
 - 📫 How to reach me ...
    * Email: phpcodertop@gmail.com
    * MS Teams: https://teams.live.com/l/invite/FEAJdVZjTT14jreqgM
-   * Skype: live:phpcodertop
    * LinkedIn: https://www.linkedin.com/in/ahmedmaherhalima/
    * Github: https://github.com/phpcodertop
    * PayPal: https://paypal.me/AhmedHalima
